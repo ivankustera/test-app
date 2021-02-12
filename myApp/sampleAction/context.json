@@ -1,0 +1,10 @@
+{
+  "type": "action",
+  "name": "Sample Action",
+  "slug": "sampleAction",
+  "description": "Ivan's Sample Action",
+  "category": "",
+  "visibility": "public",
+  "handler": "index.js",
+  "inputSchema": "inputSchema.json"
+}

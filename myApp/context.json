@@ -1,0 +1,7 @@
+{
+  "type": "app",
+  "slug": "my-app",
+  "name": "My App",
+  "common": "common.js",
+  "description": "Ivan's test app"
+}

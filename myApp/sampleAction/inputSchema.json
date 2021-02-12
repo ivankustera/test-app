@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "input": {
+      "type": "string"
+    }
+  },
+  "required": []
+}

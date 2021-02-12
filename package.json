@@ -1,0 +1,10 @@
+{
+  "name": "test-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Ivan Kustera <ivan@theplatformcompany.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
